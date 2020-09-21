@@ -1,0 +1,377 @@
+.Rectangle-Copy-7 {
+    width: 720px;
+    height: 3518px;
+    background-color: #f5f5f5;
+}
+
+.Fill-1 {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    background-color: var(--2);
+    position: absolute;
+    top: 120px;
+    left: 45px;
+    right: 635px;
+    bottom: 3358px;
+}
+
+.TextResult-1 {
+    width: 175px;
+    height: 65px;
+    object-fit: contain;
+    font-family: NotoSansKR;
+    font-size: 44px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #201f25;
+    position: absolute;
+    top: 107px;
+    left: 120px;
+    right: 428px;
+    bottom: 3346px;
+}
+
+.Date-1 {
+    width: 334px;
+    height: 45px;
+    object-fit: contain;
+    font-family: NotoSansKR;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #98979f;
+    position: absolute;
+    top: 117px;
+    left: 485px;
+    right: 59px;
+    bottom: 3356px;
+}
+
+.Date-2 {
+    width: 334px;
+    height: 45px;
+    object-fit: contain;
+    font-family: NotoSansKR;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #98979f;
+    position: absolute;
+    top: 117px;
+    left: 320px;
+    right: 59px;
+    bottom: 3356px;
+}
+
+.Rectangle-Copy-2 {
+    width: 300px;
+    height: 90px;
+    object-fit: contain;
+    border-radius: 20px;
+    background-color: #1798ff;
+    position: absolute;
+    top: 212px;
+    left: 47px;
+    right: 373px;
+    bottom: 3216px;
+}
+
+.-copy {
+    width: 107px;
+    height: 32px;
+    object-fit: contain;
+    font-family: NanumBarunGothicOTF;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.Rectangle-Copy-4 {
+    width: 300px;
+    height: 90px;
+    object-fit: contain;
+    border-radius: 19.9px;
+    background-color: #e2e2e4;
+    position: absolute;
+    top: 212px;
+    left: 376px;
+    right: 44px;
+    bottom: 3216px;
+}
+
+.-copy-1 {
+    width: 107px;
+    height: 32px;
+    object-fit: contain;
+    font-family: NanumBarunGothicOTF;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--2);
+}
+
+.Rectangle-1 {
+    width: 630px;
+    height: 914px;
+    border-radius: 40px;
+    background-color: #ed574f;
+    position: absolute;
+    top: 339px;
+    left: 45px;
+    right: 45px;
+    bottom: 2265px;
+}
+
+.Group-201 {
+    width: 350px;
+    height: 362px;
+    object-fit: contain;
+    padding: 90px 140px 462px 140px;
+}
+
+.Drive-1 {
+    width: 290px;
+    height: 89px;
+    font-family: NotoSansKR;
+    font-size: 55px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    position: absolute;
+    top: 515px;
+    left: 171px;
+    right: 169px;
+    bottom: 310px;
+}
+
+.Drive-under {
+    width: 488px;
+    height: 59px;
+    font-family: NotoSansKR;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    position: absolute;
+    top: 669px;
+    left: 71px;
+    right: 71px;
+    bottom: 186px;
+}
+
+.Under-1 {
+    width: 485px;
+    height: 90px;
+    opacity: 0.8;
+    font-family: NotoSansKR;
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    top: 763px;
+    left: 73px;
+    right: 72px;
+    bottom: 61px;
+}
+
+.Violation-1 {
+    width: 253px;
+    height: 65px;
+    object-fit: contain;
+    font-family: NotoSansKR;
+    font-size: 44px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--2);
+    position: absolute;
+    top: 1303px;
+    left: 80px;
+    right: 387px;
+    bottom: 2150px;
+}
+
+.-Violation-under {
+    width: 519px;
+    height: 236px;
+    object-fit: contain;
+    font-family: NotoSansKR;
+    font-size: 45px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--2);
+    position: absolute;
+    top: 1403px;
+    left: 80px;
+    right: 121px;
+    bottom: 1879px;
+}
+
+.Violation-text-style-1 {
+    color: #1798ff;
+}
+
+.hite-1 {
+    width: 270px;
+    height: 351px;
+    object-fit: contain;
+    border-radius: 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 1716px;
+    left: 65px;
+    right: 385px;
+    bottom: 1451px;
+}
+
+.hite-2 {
+    width: 270px;
+    height: 351px;
+    object-fit: contain;
+    border-radius: 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 1716px;
+    left: 384px;
+    right: 66px;
+    bottom: 1451px;
+}
+
+.hite-3 {
+    width: 270px;
+    height: 351px;
+    object-fit: contain;
+    border-radius: 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 2152px;
+    left: 65px;
+    right: 385px;
+    bottom: 1015px;
+}
+
+.hite-4 {
+    width: 270px;
+    height: 351px;
+    object-fit: contain;
+    border-radius: 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 2152px;
+    left: 384px;
+    right: 66px;
+    bottom: 1015px;
+}
+
+.AllO-1 {
+    width: 630px;
+    height: 130px;
+    object-fit: contain;
+    border-radius: 20px;
+    background-color: #e2e2e4;
+    position: absolute;
+    top: 2553px;
+    left: 45px;
+    right: 45px;
+    bottom: 835px;
+}
+
+.AllO-3 {
+    width: 282px;
+    height: 54px;
+    object-fit: contain;
+    font-family: NotoSansKR;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--2);
+}
+
+.AllO-4 {
+    width: 172px;
+    height: 65px;
+    object-fit: contain;
+    font-family: NotoSansKR;
+    font-size: 44px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--2);
+    position: absolute;
+    top: 1767px;
+    left: 80px;
+    right: 468px;
+    bottom: 1774px;
+}
+
+.Car-38 {
+    width: 240px;
+    height: 83px;
+    object-fit: contain;
+    position: absolute;
+    top: 2946px;
+    left: 35px;
+    right: 445px;
+    bottom: 489px;
+}
+
+.Car-11 {
+    width: 70px;
+    height: 140px;
+    object-fit: contain;
+    position: absolute;
+    top: 2898px;
+    left: 345px;
+    right: 305px;
+    bottom: 480px;
+}
+
+.Car-33 {
+    width: 150px;
+    height: 123px;
+    object-fit: contain;
+    position: absolute;
+    top: 2906px;
+    left: 489px;
+    right: 81px;
+    bottom: 489px;
+}

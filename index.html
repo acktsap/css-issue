@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta
+            name="viewport"
+            content="width=device-width,inital-scale=1.5,maximun-scale=3.0,minimun-scale=1.0,user-scalable=yes,target-densitydpi=device-dpi"
+        />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="Rectangle-Copy-7">
+            <div>
+                <img src="fill-1.png" class="Fill-1" />
+                <span class="TextResult-1">결과 분석</span>
+                <span class="Date-1">정기주행검사</span>
+                <span id="todate" class="Date-2"> </span>
+            </div>
+            <div>
+                <button class="Rectangle-Copy-2" type="button" onclick="location.href='index.html'">
+                    <span class="-copy">
+                        운전 능력
+                    </span>
+                </button>
+                <button
+                    class="Rectangle-Copy-4"
+                    type="button"
+                    onclick="location.href='outdex.html'"
+                >
+                    <span class="-copy-1">
+                        필요 교육
+                    </span>
+                </button>
+            </div>
+            <div id="bcolor" class="Rectangle-1">
+                <span id="correct" class="Drive-1"></span>
+                <span id="suggest" class="Drive-under"></span>
+                <span class="Under-1">
+                    지난 2019 교통공단 정기주행검사 대비 과속구간이 48% 증가했습니다.
+                </span>
+                <img src="group-201.png" class="Group-201" />
+            </div>
+            <div class="Violation-1">
+                주요 위반항목
+            </div>
+            <div class="-Violation-under">
+                전체 주행시간
+                <span id="playtime"></span>중
+                <span id="speeding" class="Violation-text-style-1"></span>
+                <span class="Violation-text-style-1">초간 과속</span>
+                <span>하셨습니다. 가장 빠를 땐,</span>
+                <span id="kilometer" class="Violation-text-style-1"></span>
+                <span class="Violation-text-style-1">km/h로</span>
+                <span id="speedtime" class="Violation-text-style-1"></span>
+                <span class="Violation-text-style-1">초간</span>
+                <span>과속 하셨습니다.</span>
+            </div>
+            <div class="AllO-4">
+                운전 습관
+            </div>
+            <div>
+                <img id="showspeeding" class="Car-38" />
+                <img id="exclamation" class="Car-11" />
+                <img id="showfire" class="Car-33" />
+            </div>
+        </div>
+        <script src="try.js"></script>
+        <script>
+            var date1 = 20200916;
+
+            function today() {
+                var todate = document.getElementById('todate');
+                if (true) todate.textContent = date1;
+            }
+            today();
+        </script>
+    </body>
+</html>
